@@ -14,7 +14,7 @@ app.use(express.json());
 
 // Configure CORS to allow requests from http://localhost:3000
 app.use(cors({
-    origin: 'http://deploy-mern-lwhq.vercel',
+    origin: 'https://receipeapp-beta.vercel.app/',
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     credentials: true
 }));
