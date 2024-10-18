@@ -1,0 +1,3 @@
+MONGODB_CONNECT_URI = mongodb+srv://sudarsanraj14:E0PghpRWZwsd8HpH@mymongodb.g874n.mongodb.net/reciepeees
+
+PORT = 3001
